@@ -54,4 +54,18 @@ I am currently applying for post doctorate positions to continue my career goal 
     </a>
   </li>
 {% endif %}
+{% if site.github_username %}
+  <li>
+    <a href="https://instagram{{ site.github_username }}">
+      <i class="fa fa-instagram"></i> Instragram
+    </a>
+  </li>
+{% endif %}
+{% if site.github_username %}
+  <li>
+    <a href="https://github.com/{{ site.github_username }}">
+      <i class="fa fa-github"></i> GitHub
+    </a>
+  </li>
+{% endif %}
 </ul>
