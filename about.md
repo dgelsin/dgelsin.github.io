@@ -3,9 +3,10 @@ layout: page
 title: About
 permalink: /about/
 ---
-*Baltimore, MD* [dgelsin1@jhu.edu](dgelsin1@jhu.edu)
+*Baltimore, MD* <dgelsin1@jhu.edu>
 
 My name is Diego Rivera Gelsinger and I am a biologist with extensive training in:
+
 *Microbiology
 *Microbial ecology
 *Astrobiology
