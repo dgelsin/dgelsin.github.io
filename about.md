@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Diego Rivera Gelsinger
+title: About
 permalink: /about/
 ---
+
 Baltimore, MD dgelsin1@jhu.edu
 
 My name is Diego Rivera Gelsinger and I am a biologist with extensive training in:
