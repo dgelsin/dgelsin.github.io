@@ -33,8 +33,10 @@ I am currently wrapping up my PhD in the lab of Jocelyne DiRuggiero at the Johns
 ### Postdoctorate Positions
 I am currently applying for post doctorate positions to continue my career goal of being a primary investigator of a laboratory. My interests going forward in the next step of my career are: non-coding RNA biology, cancer biology, and the gut microbiome with specific interest in the gut-brain axis. If you have a postdoc position in one of these areas of research please take a look at my website/CV for my skill set and publications and email me.
 
-#### Contact me:
-<br> 
+
+
+
+#### Contact me:<br> 
 <dgelsin1@jhu.edu>
 
 <ul>
@@ -42,6 +44,13 @@ I am currently applying for post doctorate positions to continue my career goal 
   <li>
     <a href="https://linkedin.com/in/{{ site.linkedin_username }}">
       <i class="fa fa-linkedin"></i> LinkedIn
+    </a>
+  </li>
+{% endif %}
+{% if site.twitter_username %}
+  <li>
+    <a href="https://twitter.com/{{ site.twitter_username }}">
+      <i class="fa fa-twitter"></i> Twitter
     </a>
   </li>
 {% endif %}
