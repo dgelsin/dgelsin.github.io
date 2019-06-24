@@ -18,7 +18,9 @@ permalink: /publications/
     </a>
   </li>
 {% endif %}
+<br>
 
+#### PDF-linked Publications:
 
 •	Gelsinger, D.R. and J. DiRuggiero. 2018. “The non-coding regulatory RNA revolution in Archaea”. Genes; 9(3), 141 https://doi.org/10.3390/genes9030141
 
