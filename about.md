@@ -20,16 +20,23 @@ I am currently wrapping up my PhD in the lab of Jocelyne DiRuggiero at the Johns
 ### Small RNAs in Haloferax volcanii:
 
 *Developed mRNA-seq and small RNA-seq in order to identify that thousands of small non-coding RNAs (sRNAs) are specifically expressed during oxidative stress, suggesting they play a role in the oxidative stress response. 
+
 *A subset of these sRNAs have anti-correlated differential expression profiles compared to their putative targets, all of which are transposons, suggesting their role in transposon silencing.
+
 *Developed ribosome profiling in archaea and identified many small RNAs have ribosome association.
+
 *Elucidated the mechanism of an oxidative stress specific intergenic sRNA, SHOxi, which plays a role in redox homestasis and survival.
 
 ### Small RNAs in Halite Microbial Communities:
 
 *Developed a pipeline for the discovery of small RNAs using metatranscriptomics (SnapT).
+
 *Collected samples over two years for metatranscriptomic sequencing.
+
 *Identified thousands of sRNAs expressed over both years.
+
 *Temporal and taxonomic specific expression of sRNAs.
+
 *Secondary structure determination and putative target identification of sRNAs using computantional tools.
 
 ### Postdoctorate Positions
