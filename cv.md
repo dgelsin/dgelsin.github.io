@@ -3,23 +3,22 @@ layout: page
 title: CV
 permalink: /cv/
 ---
-
+<ul>
 {% if site.researchgate_username %}
   <li>
     <a href="https://www.researchgate.net/profile/{{ site.researchgate_username }}">
-      <i class="fab fa-researchgate"></i> ResearchGate
+      <i class="fa fa-researchgate"></i> ResearchGate
     </a>
   </li>
 {% endif %}
-
 {% if site.googlescholar_username %}
   <li>
     <a href="https://scholar.google.com/citations?user={{ site.googlescholar_username }}">
-      <i class="fab fa-google"></i> Google Scholar
+      <i class="fa fa-google"></i> Google Scholar
     </a>
   </li>
 {% endif %}
-
+</ul>
 <html lang="en" style="width:100%; height:100%;">
 <head>
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
