@@ -39,7 +39,7 @@ I am currently applying for post doctorate positions to continue my career goal 
 #### Contact me:<br> 
 
 <ul>
-*<dgelsin1@jhu.edu>>
+* <dgelsin1@jhu.edu>
 {% if site.linkedin_username %}
   <li>
     <a href="https://linkedin.com/in/{{ site.linkedin_username }}">
