@@ -5,3 +5,10 @@
 #theme: minima
 theme: jekyll-swiss
 theme_color: white
+title: Diego Rivera Gelsinger
+description: Ph.D. candidate in the laboratory of Dr. Jocelyne DiRuggiero. Extremophile biologist and non-coding regulatory RNA enthusiast.
+github_repo: dgelsin
+github_username: dgelsin
+social_link: twitter
+social_username: tehhoyen
+markdown: kramdown
