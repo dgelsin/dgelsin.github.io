@@ -3,6 +3,22 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
+#### All my publications can be found on my Google Scholar or Research Gate page:
+{% if site.researchgate_username %}
+  <li>
+    <a href="https://www.researchgate.net/profile/{{ site.researchgate_username }}">
+      <i class="fa fa-researchgate"></i> ResearchGate
+    </a>
+  </li>
+{% endif %}
+{% if site.googlescholar_username %}
+  <li>
+    <a href="https://scholar.google.com/citations?user={{ site.googlescholar_username }}">
+      <i class="fa fa-google"></i> Google Scholar
+    </a>
+  </li>
+{% endif %}
+
 
 •	Gelsinger, D.R. and J. DiRuggiero. 2018. “The non-coding regulatory RNA revolution in Archaea”. Genes; 9(3), 141 https://doi.org/10.3390/genes9030141
 
