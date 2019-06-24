@@ -3,20 +3,15 @@ layout: page
 title: About
 permalink: /about/
 ---
-*Baltimore, MD* [dgelsin1@jhu.edu](dgelsin1@jhu.edu)
+*Baltimore, MD* <dgelsin1@jhu.edu>
 
 My name is Diego Rivera Gelsinger and I am a biologist with extensive training in:
 
 •	Microbiology
-
 •	Microbial ecology
-
 •	Astrobiology
-
 •	RNA biology
-
 •	High throughput sequencing
-
 •	Bioinformatics
 
 I received my Bachelors of Science in Microbiology with a minor in French at San Francisco State University. I carried out research for three years in the lab of Dr. José de la Torre, where I studied the physiology and metabolism of thermophilic ammonia oxidizing archaea from Yellowstone, USA and Yunan, China. 
