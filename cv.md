@@ -3,7 +3,7 @@ layout: page
 title: CV
 permalink: /cv/
 ---
-<ul>
+
 {% if site.researchgate_username %}
   <li>
     <a href="https://www.researchgate.net/profile/{{ site.researchgate_username }}">
@@ -18,7 +18,7 @@ permalink: /cv/
     </a>
   </li>
 {% endif %}
-</ul>
+
 <html lang="en" style="width:100%; height:100%;">
 <head>
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
