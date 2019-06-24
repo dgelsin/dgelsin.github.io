@@ -1,4 +1,5 @@
 
-title: Swiss Jekyll Theme
-remote_theme: broccolini/swiss
-theme_color: yellow
+#title: Swiss Jekyll Theme
+#remote_theme: broccolini/swiss
+#theme_color: yellow
+theme: minima
