@@ -21,7 +21,7 @@ permalink: /skillset/
 ⁙	NGS Library Construction and Optimization <br>
 			• [Meta]genomics <br>
 			• [Meta]transcriptomics <br>
-			• Ribosome profiling)<br>
+			• Ribosome profiling<br>
 ⁙	Colormetric assays<br>
 ⁙	Light and Confocal Microscopy<br>
 ⁙	Immunostaining<br>
