@@ -3,8 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
-<img src="https://github.com/dgelsin/dgelsin.github.io/raw/master/about_fig_1.v1.png" width="300" height="400" class="inline"> <br>
-<br>
+#<img src="https://github.com/dgelsin/dgelsin.github.io/raw/master/about_fig_1.v1.png" width="300" height="400" class="inline"> <br>
+#<br>
 My name is Diego Rivera Gelsinger and I am a biologist with extensive training in:<br>
 ◈ Microbiology <br>
 ◈ Microbial ecology <br>
