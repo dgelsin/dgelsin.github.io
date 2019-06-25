@@ -19,7 +19,7 @@ I received my Bachelors of Science in Microbiology with a minor in French at San
 
 I am currently wrapping up my PhD in the lab of [Jocelyne DiRuggiero](https://krieger2.jhu.edu/biology/labs/diruggiero/lab/index.html) at the Johns Hopkins University. In my PhD I am researching the increased oxidative stress resistance of halophilic archaea from hyper arid climates (e.g. the Atacama Desert). My research has been carried out in two methodologies: 1. in a single isolated haloarchaea *Haloferax volcanii*, and 2. in a halophilic microbial community from Halite nodules in the Atacama Desert where we do extensive field work. 
 
-<img src="https://github.com/dgelsin/dgelsin.github.io/raw/master/atacama1.jpg" width="300" height="400" class="inline"> <img src="https://github.com/dgelsin/dgelsin.github.io/raw/master/atacama2.jpg" width="300" height="400" class="inline"> <img src="https://github.com/dgelsin/dgelsin.github.io/raw/master/atacama3.jpg" width="300" height="400" class="inline"> <br>
+<img src="https://github.com/dgelsin/dgelsin.github.io/raw/master/atacama1.jpg" width="300" height="400" class="inline"> <img src="https://github.com/dgelsin/dgelsin.github.io/raw/master/atacama3.jpg" width="300" height="400" class="inline"> <br>
 
 ### Small RNAs in *Haloferax volcanii*:
 
