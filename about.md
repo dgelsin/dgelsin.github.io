@@ -30,7 +30,7 @@ I am currently wrapping up my PhD in the lab of [Jocelyne DiRuggiero](https://kr
 •	Temporal and taxonomic specific expression of sRNAs.<br>
 •	Secondary structure determination and putative target identification of sRNAs using computantional tools.<br>
 
-### Postdoctorate Positions
+### Postdoctoral Positions
 I am currently applying for post doctorate positions to continue my career goal of being a primary investigator of a laboratory. My interests going forward in the next step of my career are: non-coding RNA biology, cancer biology, and the gut microbiome with specific interest in the gut-brain axis. If you have a postdoc position in one of these areas of research please take a look at my website/CV for my skill set and publications and email me.
 
 
