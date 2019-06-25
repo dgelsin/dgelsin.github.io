@@ -24,7 +24,7 @@ I am currently wrapping up my PhD in the lab of [Jocelyne DiRuggiero](https://kr
 
 ### Small RNAs in Halite Microbial Communities:
 
-•	Developed a pipeline for the discovery of small RNAs using metatranscriptomics (SnapT).<br>
+•	Developed a pipeline for the discovery of small RNAs using metatranscriptomics [(SnapT)](https://github.com/ursky/SnapT).<br>
 •	Collected samples over two years for metatranscriptomic sequencing.<br>
 •	Identified thousands of sRNAs expressed over both years.<br>
 •	Temporal and taxonomic specific expression of sRNAs.<br>
