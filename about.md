@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
+[]
 My name is Diego Rivera Gelsinger and I am a biologist with extensive training in:<br>
 ◈ Microbiology <br>
 ◈ Microbial ecology <br>
