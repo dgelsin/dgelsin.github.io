@@ -15,7 +15,7 @@ My name is Diego Rivera Gelsinger and I am a biologist with extensive training i
 
 I received my Bachelors of Science in Microbiology with a minor in French at San Francisco State University. I carried out research for three years in the lab of [Dr. José de la Torre](http://archaea.sfsu.edu/), where I studied the physiology and metabolism of thermophilic ammonia oxidizing archaea (AOA) from Yellowstone, USA and Yunan, China. I carried out field work at the foot of the Himalaya's in Southeastern China to investigate these AOA.
 
-<img src="" width="300" height="400" class="inline"> <br>
+<img src="https://github.com/dgelsin/dgelsin.github.io/raw/master/china1.jpg" width="300" height="400" class="inline"> <img src="https://github.com/dgelsin/dgelsin.github.io/raw/master/china2.jpg" width="300" height="400" class="inline"> <br>
 
 I am currently wrapping up my PhD in the lab of [Jocelyne DiRuggiero](https://krieger2.jhu.edu/biology/labs/diruggiero/lab/index.html) at the Johns Hopkins University. In my PhD I am researching the increased oxidative stress resistance of halophilic archaea from hyper arid climates (e.g. the Atacama Desert). My research has been carried out in two methodologies: 1. in a single isolated haloarchaea *Haloferax volcanii*, and 2. in a halophilic microbial community from Halite nodules in the Atacama Desert. 
 
