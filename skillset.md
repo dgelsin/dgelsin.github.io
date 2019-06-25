@@ -19,11 +19,9 @@ permalink: /skillset/
 ⁙	Illumina Sequencing<br>
 ⁙	Nanopore Sequencing<br>
 ⁙	NGS Library Construction and Optimization <br>
-<ol>
-• [Meta]genomics <br>
+<ol>• [Meta]genomics <br>
 • [Meta]transcriptomics <br>
-• Ribosome profiling<br>
-</ol>
+• Ribosome profiling<br> </ol>
 ⁙	Colormetric assays<br>
 ⁙	Light and Confocal Microscopy<br>
 ⁙	Immunostaining<br>
