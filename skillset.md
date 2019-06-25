@@ -18,7 +18,7 @@ permalink: /skillset/
 ⁙	CRISPR Interference<br>
 ⁙	Illumina Sequencing<br>
 ⁙	Nanopore Sequencing<br>
-⁙	NGS Library Construction and Optimization<br> 
+⁙	NGS Library Construction and Optimization 
 	⁙	[Meta]genomics<br>
 	⁙	[Meta]transcriptomics<br> 
 	⁙	Ribosome profiling)<br>
