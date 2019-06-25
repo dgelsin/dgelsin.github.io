@@ -7,7 +7,7 @@ permalink: /publications/
 {% if site.researchgate_username %}
   <li>
     <a href="https://www.researchgate.net/profile/{{ site.researchgate_username }}">
-      <i class="fa fa-researchgate"></i> ResearchGate
+      <i class="fab fa-researchgate"></i> ResearchGate
     </a>
   </li>
 {% endif %}
