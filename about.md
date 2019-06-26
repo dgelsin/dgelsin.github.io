@@ -36,7 +36,7 @@ I am currently wrapping up my PhD in the lab of [Jocelyne DiRuggiero](https://kr
 •	Temporal and taxonomic specific expression of sRNAs.<br>
 •	Secondary structure determination and putative target identification of sRNAs using computantional tools.<br>
 
-<img src="https://github.com/dgelsin/dgelsin.github.io/raw/master/meta_sRNA3.png" width="604.2" height="208.3" class="inline"> <br> 
+<img src="https://github.com/dgelsin/dgelsin.github.io/raw/master/meta_sRNA3.png" width="650" height="216.6" class="inline"> <br> 
 <img src="https://github.com/dgelsin/dgelsin.github.io/raw/master/meta_sRNA4.png" width="300" height="250" class="inline"> <img src="https://github.com/dgelsin/dgelsin.github.io/raw/master/meta_sRNA1.png" width="350" height="250" class="inline"> <br>
 
 ### Postdoctoral Positions
