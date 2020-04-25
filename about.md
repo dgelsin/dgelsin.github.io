@@ -57,7 +57,7 @@ ________________________________________________________________________________
 • Revealed ribosome pausing at specific codons.<br>
 • Discovered putative novel initiation sites in intergenic regions and within genes using translation inhibitors.<br>
 
-<img src="https://github.com/dgelsin/dgelsin.github.io/blob/master/ribo1.png" width="650" height="216.6" class="inline"> <br> 
+<img src="https://github.com/dgelsin/dgelsin.github.io/blob/master/ribo1.png" width="650" height="650" class="inline"> <br> 
 <br>
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________<br>
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________<br>
