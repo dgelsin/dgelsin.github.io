@@ -4,7 +4,7 @@ title: Skill set
 permalink: /skillset/
 ---
 
-#### I have nearly a decade of "wet lab" skills and about half a decade of bioinformatic skills. Here are a variety that I have developed along the way:
+#### I have nearly a decade of "wet lab" skills and half a decade of bioinformatic skills. Here are a variety that I have developed along the way:
 
 ### "Wet Lab" Techniques
 ⁙	PCR <br>
