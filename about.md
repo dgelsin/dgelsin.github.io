@@ -85,7 +85,7 @@ dgelsin1@jhu.edu
 {% endif %}
 {% if site.github_username %}
   <li>
-    <a href="https://instagram{{ site.instagram_username }}">
+    <a href="https://instagram.com/{{ site.instagram_username }}">
       <i class="fa fa-instagram"></i> Instragram
     </a>
   </li>
