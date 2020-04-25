@@ -22,7 +22,7 @@ I am currently wrapping up my PhD in the lab of [Dr. Jocelyne DiRuggiero](https:
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________<br>
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________<br>
 <br>
-### Small RNAs in *Haloferax volcanii*:
+### Small RNAs in the archaeon *Haloferax volcanii*:
 
 •	Developed mRNA-seq and small RNA-seq in order to identify that thousands of small non-coding RNAs (sRNAs) are specifically expressed during oxidative stress, suggesting they play a role in the oxidative stress response. <br>
 •	A subset of these sRNAs have anti-correlated differential expression profiles compared to their putative targets, all of which are transposons, suggesting their role in transposon silencing.<br>
@@ -44,6 +44,20 @@ ________________________________________________________________________________
 
 <img src="https://github.com/dgelsin/dgelsin.github.io/raw/master/meta_sRNA3.png" width="650" height="216.6" class="inline"> <br> 
 <img src="https://github.com/dgelsin/dgelsin.github.io/raw/master/meta_sRNA4.png" width="300" height="250" class="inline"> <img src="https://github.com/dgelsin/dgelsin.github.io/raw/master/meta_sRNA1.png" width="350" height="250" class="inline"> <br>
+<br>
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________<br>
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________<br>
+<br>
+### Translation in Archaea:
+
+• Developed ribosome profiling and elucidated the translational landscape for the first time in Archaea (*H. volcanii*).<br>
+• Developed a pipeline for meta-gene analysis of microbial (Bacteria & Archaea) ribosome profiling data [(mRibo)](https://github.com/dgelsin/mRibo).<br>
+• Identified the major ribosome footprint of Archaea relative to Bacteria and Eukarya.<br>
+• Linked footprint lengths to initiating and elongating states of the ribosome on leadered transcripts, operons, and on leaderless transcripts<br>
+• Revealed ribosome pausing at specific codons.<br>
+• Discovered putative novel initiation sites in intergenic regions and within genes using translation inhibitors.<br>
+
+<img src="https://github.com/dgelsin/dgelsin.github.io/blob/master/ribo1.png" width="650" height="216.6" class="inline"> <br> 
 <br>
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________<br>
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________<br>
